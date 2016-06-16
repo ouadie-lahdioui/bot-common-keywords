@@ -3,3 +3,4 @@ shut up
 be quiet
 leave me alone
 quit
+cancel
