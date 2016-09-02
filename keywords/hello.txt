@@ -3,3 +3,10 @@ hi
 howdy
 hey
 yo
+what's up
+how are you
+good morning
+good afternoon
+good evening
+good day
+hola
