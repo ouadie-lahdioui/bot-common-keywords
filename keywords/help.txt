@@ -1,4 +1,3 @@
 help
 advice
 support
-hand
